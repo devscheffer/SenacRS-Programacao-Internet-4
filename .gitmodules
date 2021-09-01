@@ -1,0 +1,4 @@
+[submodule "pi4_2021_2_crud_produtos"]
+	path = Project - Prof/pi4_2021_2_crud_produtos
+	url = git@github.com:devscheffer/pi4_2021_2_crud_produtos.git
+
