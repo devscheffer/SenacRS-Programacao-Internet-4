@@ -2,3 +2,6 @@
 	path = Project - Prof/pi4_2021_2_crud_produtos
 	url = git@github.com:devscheffer/pi4_2021_2_crud_produtos.git
 
+[submodule "herbie-21"]
+	path = Project - Scheffer/herbie-21
+	url = git@github.com:devscheffer/herbie-21.git
