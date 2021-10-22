@@ -1,6 +1,12 @@
-[submodule "project-teacher"]
-	path = project-teacher
-	url = git@github.com:profries/pi4_2021_2_crud_produtos.git
-[submodule "project-scheffer"]
-	path = project-scheffer
-	url = git@github.com:devscheffer/API-herbie-21.git
+[submodule "scheffer/API"]
+	path = scheffer/API
+	url = https://github.com/devscheffer/API-herbie-21
+[submodule "professor/pi4_2021_2_app_angular"]
+	path = professor/pi4_2021_2_app_angular
+	url = https://github.com/devscheffer/pi4_2021_2_app_angular
+[submodule "professor/pi4_2021_2_crud_produtos_categorias"]
+	path = professor/pi4_2021_2_crud_produtos_categorias
+	url = https://github.com/devscheffer/pi4_2021_2_crud_produtos_categorias
+[submodule "professor/pi4_2021_2_api_seguranca"]
+	path = professor/pi4_2021_2_api_seguranca
+	url = https://github.com/devscheffer/pi4_2021_2_api_seguranca
