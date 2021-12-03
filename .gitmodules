@@ -10,3 +10,6 @@
 [submodule "professor/pi4_2021_2_api_seguranca"]
 	path = professor/pi4_2021_2_api_seguranca
 	url = https://github.com/devscheffer/pi4_2021_2_api_seguranca
+[submodule "scheffer/Angular"]
+	path = scheffer/Angular
+	url = git@github.com:devscheffer/herbie-21-angular.git
